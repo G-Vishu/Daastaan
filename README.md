@@ -1,2 +1,2 @@
-# Blog-Application
-Using MERN Stack
+# Dastaan
+Blog-Application ssing MERN Stack
